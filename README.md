@@ -1,1 +1,2 @@
-# interactive_recipe_gallery
+# Interactive Recipe Gallery with React
+This was an assignment for my Web Applications Development class. For this assignment, the objective was "Develop a React application that showcases an interactive recipe gallery. The gallery will display images from a predefined list, and users will be able to navigate through the images using "Next" and "Previous" buttons. This assignment will demonstrate your ability to use React state to manage dynamic content and respond to user actions."
